@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Eunice!
 
-<!--
-**maiyunis21/maiyunis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+I'm passionate about learning **backend development** and building systems that are efficient, scalable, and maintainable. I'm continuously working to strengthen my skills through hands-on practice and personal study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Academic Background
+
+- 🎓 **Degree:** Bachelor of Science in Computer Engineering  
+- 🏫 **University:** Polytechnic University of the Philippines – Manila
+
+## 📚 Currently Learning
+
+- JavaScript fundamentals and best practices  
+- Frontend development using React
