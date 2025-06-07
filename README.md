@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eunice!
+## 👋 Hello, I'm Eunice!
 
 Welcome to my GitHub profile! 
 
